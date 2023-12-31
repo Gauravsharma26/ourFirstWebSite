@@ -1,3 +1,7 @@
+h1{
+    font-size: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 .nav {
     background-color: #333;
     overflow: hidden;
@@ -50,9 +54,9 @@
     }
     .slider{
         width:90%;
-        height:50%git ;
+        height:50% ;
         box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
-        margin: 20px auto;
+        margin: 50px auto;
     }
     #img{
         width:100%;

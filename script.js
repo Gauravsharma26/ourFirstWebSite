@@ -1,8 +1,13 @@
 window.onload = function () {
     var img = document.getElementById('img').getElementsByTagName('img')[0];
     var slides = [
-        "C:\\Users\\gshar\\OneDrive\\Desktop\\kalpa3-1686249342.webp",
-        // Add more image URLs as needed
+        "C:/Users/gshar/OneDrive/Pictures/shimla.webp",
+        "C:/Users/gshar/OneDrive/Desktop/photo-1503265192943-9d7eea6fc77a.avif",
+        "C:/Users/gshar/OneDrive/Desktop/wp4676584.jpg",
+        "C:/Users/gshar/OneDrive/Desktop/Himachal-Feature.jpg",
+        "C:/Users/gshar/OneDrive/Desktop/121222_Best Places to Visit in Himachal Pradesh.webp",
+        "C:/Users/gshar/OneDrive/Desktop/Best-Hill-Stations-in-Himachal-Pradesh.jpg",
+        "C:/Users/gshar/Downloads/Dharmashala Cricket Stadium Himachal Pradesh, India 🇮🇳.jfif"
     ];
 
     var start = 0;
